@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnTouchListe
     private Bitmap mBitmap;
     private ImageView mImageView;
     private int mColorBackground;
+
     boolean clicked = false;
 
         float[][] balls = {};
